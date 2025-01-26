@@ -1,0 +1,7 @@
+NumPy: A powerful library for numerical computations and array manipulations.
+Pandas: A versatile library for data manipulation and analysis.
+Matplotlib: A popular library for creating visualizations and plots.
+OpenCV-Python: An open-source computer vision and image processing library.
+TQDM: A tool for creating progress bars and monitoring progress in loops.
+TensorFlow: A comprehensive framework for machine learning and deep learning.
+TensorFlow-CPU: The CPU version of the TensorFlow library for machine learning and deep learning.
