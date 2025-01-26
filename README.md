@@ -45,10 +45,15 @@ Details to be added after completion.
 
 # Technologies Used
 Python
+
 TensorFlow/Keras
+
 OpenCV
+
 NumPy
+
 Pandas
+
 Matplotlib
 
 # Future Scope
