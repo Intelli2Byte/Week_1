@@ -32,16 +32,6 @@ Imported the required libraries and frameworks.
 Set up the project environment.
 Explored the dataset structure.
 Note: If the file takes too long to load, you can view the Kaggle notebook directly Kaggle Notebook.
-Notebooks:
-
-Week1-Libraries-Importing-Data-Setup.ipynb
-Kaggle Notebook
-
-Week 2: TBD
-Details to be added after completion.
-
-Week 3: TBD
-Details to be added after completion.
 
 # Technologies Used
 Python
